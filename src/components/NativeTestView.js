@@ -28,6 +28,9 @@ class NativeTestView extends React.PureComponent {
 
 
 
+
+    
+
     render() {
         return <RNTTestView
             style={styles.defaultIOS}
